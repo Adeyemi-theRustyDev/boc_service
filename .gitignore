@@ -1,0 +1,5 @@
+# ENVIROMENTAL AND CONFIG FILES
+.env
+
+#Package Management Tools and Dependencies
+node_modules/
